@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 export default function Performance(){
     return (
         <div>
-            <Hero imgUrl={ performanceSrc } altTxt={ "Performance" } content={ "Professional Cloud Hosting "}/>
+            <Hero imgUrl={ performanceSrc } altTxt={ "Performance" } content={ "We serve high performance applications "}/>
         </div>
     )
 }

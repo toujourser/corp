@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 export default function Scale(){
     return (
         <div>
-            <Hero imgUrl={ scaleSrc } altTxt={ "Reliability" } content={ "Scale Cloud Hosting "}/>
+            <Hero imgUrl={ scaleSrc } altTxt={ "Reliability" } content={ "Scale your app to infinity"}/>
         </div>
     )
 }
